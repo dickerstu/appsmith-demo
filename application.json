@@ -1,0 +1,15 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F3F1C7",
+  "icon": "hospital",
+  "slug": "graphql-store-manager",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1647529246,
+    "nanos": 895000000
+  },
+  "deleted": false
+}
